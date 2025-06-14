@@ -6,8 +6,8 @@ A simple todo app built with express, node.js and mongodb as a backend service.
 # Installation
 1. Clone the repository
    ```bash
-   git clone <https://github.com/ali-husnain09/Todo-App--Backend->
-   cd <Todo-App--Backend>
+   git clone <https://github.com/ali-husnain09/Todo-App-Backend>
+   cd <Todo-App-Backend>
    ```
 2. Install dependencies
    ```bash
